@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: GPL-2.0 */
+/* SPDX-License-Identifier: GPL-2.0-or-later */
 /* Copyright 2026 Vasyl Samoilov */
 /* Motorola NewsCard: mailbox commands and the message store (PROTOCOL.md). */
 #ifndef NC_H

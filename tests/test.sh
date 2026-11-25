@@ -1,5 +1,5 @@
 #!/bin/sh
-# SPDX-License-Identifier: GPL-2.0
+# SPDX-License-Identifier: GPL-2.0-or-later
 # Copyright 2026 Vasyl Samoilov
 # Tests of the host build against the simulated card.
 set -u

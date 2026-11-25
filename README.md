@@ -97,7 +97,9 @@ others); NEWSCARD finds it by reading, and `/RAMAT=` sets it.
 
 ## Building
 
-Needs Open Watcom v2 (`$WATCOM`, default `~/opt/watcom`).
+`NEWSCARD.EXE` in the repository is built from these sources; rebuild it
+with `make` before committing a change. Needs Open Watcom v2 (`$WATCOM`,
+default `~/opt/watcom`).
 
 ```text
 make            NEWSCARD.EXE (DOS, 8086, small model)
@@ -112,4 +114,5 @@ busy or unresponsive (see `bus_sim.c`).
 
 ## License
 
-GPL-2.0 (`LICENSE`). Copyright 2026 Vasyl Samoilov.
+GNU General Public License, version 2 or (at your option) any later
+version (GPL-2.0-or-later, `LICENSE`). Copyright 2026 Vasyl Samoilov.

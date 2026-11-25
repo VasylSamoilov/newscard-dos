@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: GPL-2.0 */
+/* SPDX-License-Identifier: GPL-2.0-or-later */
 /* Copyright 2026 Vasyl Samoilov */
 /* Backend selection: the simulated card, or Socket Services (DOS builds). */
 #include <string.h>

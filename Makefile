@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-2.0
+# SPDX-License-Identifier: GPL-2.0-or-later
 # make          DOS build (Open Watcom, $WATCOM), NEWSCARD.EXE
 # make host     Linux build against the simulated card only, for tests
 # make test     run the tests with the host build

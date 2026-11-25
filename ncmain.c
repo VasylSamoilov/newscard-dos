@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: GPL-2.0 */
+/* SPDX-License-Identifier: GPL-2.0-or-later */
 /* Copyright 2026 Vasyl Samoilov */
 /* NEWSCARD: command line tool for the Motorola NewsCard under DOS. */
 #ifndef __WATCOMC__

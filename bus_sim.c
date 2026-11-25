@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: GPL-2.0 */
+/* SPDX-License-Identifier: GPL-2.0-or-later */
 /* Copyright 2026 Vasyl Samoilov */
 /*
  * Simulated NewsCard over a 128 KB RAM image (card offsets 0-0x1FFFF).

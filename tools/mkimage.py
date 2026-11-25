@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-License-Identifier: GPL-2.0
+# SPDX-License-Identifier: GPL-2.0-or-later
 # Copyright 2026 Vasyl Samoilov
 """Build a 128 KB NewsCard RAM image with test pages (store layout as in
 PROTOCOL.md), for the simulated card: NEWSCARD /SIM=FILE ...

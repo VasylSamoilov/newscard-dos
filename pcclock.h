@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: GPL-2.0 */
+/* SPDX-License-Identifier: GPL-2.0-or-later */
 /* Copyright 2026 Vasyl Samoilov */
 #ifndef PCCLOCK_H
 #define PCCLOCK_H

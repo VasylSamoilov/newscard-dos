@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: GPL-2.0 */
+/* SPDX-License-Identifier: GPL-2.0-or-later */
 /* Copyright 2026 Vasyl Samoilov */
 /*
  * Card memory through PCMCIA Socket Services 1.x (INT 1Ah AH=80h-90h):
