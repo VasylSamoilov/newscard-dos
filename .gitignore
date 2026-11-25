@@ -1,0 +1,8 @@
+NEWSCARD.EXE
+newscard-host
+*.o
+*.obj
+*.err
+*.bin
+*.TXT
+TEST.BAT
